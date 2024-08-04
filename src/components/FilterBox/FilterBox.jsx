@@ -3,7 +3,7 @@ import { generateDataOptions,months,years } from "../../utils/DataRender"
 import "./FilterBox.css"
 const FilterBox = ({getMonthYear})=>{
     const [selectedMonth,setSelectedMonth]=useState("January");
-    const [selectedYear,setSelectedYear]=useState(2023);
+    const [selectedYear,setSelectedYear]=useState(2024);
 
     const monthToRender =()=>generateDataOptions(months)
 

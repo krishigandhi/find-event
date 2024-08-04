@@ -2,9 +2,10 @@
 
 :root {
   font-family: "Lexend", sans-serif;
-  --primary-color: #58be6f;
-  --bg-color: #f2f2f2;
+  --primary-color: #b0a41e;
+  --bg-color: #212121;
   --white: #ffffff;
+
   text-decoration: none;
 }
 a {
@@ -17,5 +18,5 @@ a {
   font-family: "Lexend", sans-serif;
   font-size: 14px;
   font-weight: 400;
-  color: rgb(43, 50, 43);
+  color: rgb(187, 182, 182)
 }

@@ -1,5 +1,5 @@
 .card {
-  background-color: white;
+  background-color: #121111;
   width: 600px;
   display: flex;
   justify-content: center;
@@ -27,7 +27,7 @@
 .card .card-content h3 {
   font-size: 24px;
   text-transform: uppercase;
-  color: rgb(43, 50, 43);
+  color: gray;
 
   font-weight: 600;
   margin-bottom: 40px;
